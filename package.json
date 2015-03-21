@@ -1,0 +1,18 @@
+{
+  "name": "aws-sandbox",
+  "version": "0.0.1",
+  "description": "Sample scripts for working with AWS & Co.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joerg Henning",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "~1.0.0",
+    "async": "~0.9.0",
+    "aws-sdk": "~2.1.17",
+    "sinon": "~1.14.1",
+    "uniqid": "~1.0.0"
+  }
+}
